@@ -1,0 +1,21 @@
+.trabajo {
+  text-align: center;
+}
+
+.orden {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2vh;
+}
+
+.bluep {
+  color: blue;
+}
+
+.ordenar {
+  display: flex; /* Usar flexbox para organizar los elementos en fila */
+  align-items: center; /* Alinear verticalmente en el centro */
+  margin: 20px; /* Espacio alrededor del contenedor */
+}
